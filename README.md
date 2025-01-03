@@ -26,7 +26,7 @@
 
 ## 结果复现
 
-$\texttt{example.ipynb}$ 给出了测试样例，作为复现论文结果的参考。关于各参数如何具体使用可以参考 $\texttt{\_training.py}$ 文件中的注释。
+$\texttt{example.ipynb}$ 给出了测试样例，作为复现论文结果的参考。关于各参数如何具体使用可以参考 $\_\texttt{training.py}$ 文件中的注释。
 
 ## 库
 
