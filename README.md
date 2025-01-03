@@ -26,8 +26,8 @@
 
 ## 结果复现
 
-$\texttt{example.ipynb}$ 给出了测试样例，作为复现论文结果的参考。关于各参数如何具体使用可以参考 \_$\texttt{training.py}$ 文件中的注释。
+example.ipynb 给出了测试样例，作为复现论文结果的参考。关于各参数如何具体使用可以参考 \_training.py 文件中的注释。
 
 ## 库
 
-所有代码都是基于 $\texttt{Python}$ 3.12.4 实现。使用的库包括：$\texttt{torch}$ 2.5.1, $\texttt{numpy}$ 1.26.4
+所有代码都是基于 Python 3.12.4 实现。使用的库包括：torch 2.5.1, numpy 1.26.4
